@@ -5,4 +5,4 @@ Halo, ini adalah sebuah website yang dibuat untuk memenuhi tugas mata kuliah Int
 Dalam pembuatan website dikerjakan kelompok yang terdiri 2 orang. <br><br>
 
 untuk <strong>demo website</strong> bisa kalian kunjungi link dibawah ini <br>
-http://jobfind.rf.gd/?i=1
+http://jobfind.rf.gd/
